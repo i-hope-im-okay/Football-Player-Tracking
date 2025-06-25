@@ -7,7 +7,7 @@ This is a project that uses YOLOv8 and DeepSORT in python to track soccer player
 ## Files
 - `player_tracking.py`: Main script for player detection and tracking.
 - `output.mp4`: Processed video with tracking annotations.
-- `demo.jpg`: Screenshot of tracking results.
+- `demo.png`: Screenshot of tracking results.
 
 ## Dependencies
 - Python 3.8+
