@@ -22,7 +22,7 @@ This is a project that uses YOLOv8 and DeepSORT in python to track soccer player
 4. Run: `python player_tracking.py`
 
 ## Demo
-![Tracking Demo](demo.jpg)
+![Tracking Demo](demo.png)
 [Output Video](https://drive.google.com/file/d/1ZI_cex4RXzD8ezsXfRSyoWWK5GUDaLD_/view?usp=drive_link) <!-- Replace with Google Drive link if >25MB, e.g., https://drive.google.com/your-link -->
 
 ## Author
